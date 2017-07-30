@@ -1,0 +1,1363 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"section",
+				"sectionIdentitiesLen"
+			],
+			[
+				"lastSe",
+				"lastSessionHeader"
+			],
+			[
+				"last",
+				"lastSectionId"
+			],
+			[
+				"text",
+				"textAlign"
+			],
+			[
+				"filter",
+				"filteredText"
+			],
+			[
+				"fil",
+				"filteredOutText"
+			],
+			[
+				"sec",
+				"sectionID"
+			],
+			[
+				"next",
+				"nextStartOfWeek"
+			],
+			[
+				"renderSe",
+				"renderSectionHeader"
+			],
+			[
+				"filt",
+				"filteredSessions"
+			],
+			[
+				"_last",
+				"_lastFilteredSessionID"
+			],
+			[
+				"to",
+				"toBeDate"
+			],
+			[
+				"getStart",
+				"getStartOfWeek"
+			],
+			[
+				"day",
+				"dayOfWeek"
+			],
+			[
+				"star",
+				"startOfWeekDay"
+			],
+			[
+				"start",
+				"startDate"
+			],
+			[
+				"sta",
+				"startOfWeekDay"
+			],
+			[
+				"get",
+				"getFullWeekIfDayIsStartOfWeek"
+			],
+			[
+				"prop",
+				"prototype"
+			],
+			[
+				"_sess",
+				"_sessionRunning"
+			],
+			[
+				"handl",
+				"handleAppUpgrade"
+			],
+			[
+				"weeks",
+				"weeksBack"
+			],
+			[
+				"Star",
+				"StartOfWeekHelp"
+			],
+			[
+				"font",
+				"fontSize"
+			],
+			[
+				"Session",
+				"SessionFilters"
+			],
+			[
+				"minut",
+				"minuteInterval"
+			],
+			[
+				"init",
+				"initSound"
+			],
+			[
+				"_",
+				"_settings"
+			],
+			[
+				"end",
+				"endMinute"
+			],
+			[
+				"cur",
+				"curSessionMinute"
+			],
+			[
+				"DEV",
+				"DEV_INTERVAL_SECONDS"
+			],
+			[
+				"picker",
+				"pickerItems"
+			],
+			[
+				"pick",
+				"pickerItems"
+			],
+			[
+				"print",
+				"printDisabled"
+			],
+			[
+				"signing",
+				"signingConfigs"
+			],
+			[
+				"back",
+				"backgroundColor"
+			],
+			[
+				"backgro",
+				"backgroundColor"
+			],
+			[
+				"item",
+				"itemTextStyle"
+			],
+			[
+				"sst",
+				"sStyleText"
+			],
+			[
+				"segment",
+				"segmentedStyles"
+			],
+			[
+				"selec",
+				"selectedStyleText"
+			],
+			[
+				"selected",
+				"selectedStyle"
+			],
+			[
+				"segm",
+				"segmentedStyles"
+			],
+			[
+				"seg",
+				"segmentedStyles"
+			],
+			[
+				"Style",
+				"StyleSheet"
+			],
+			[
+				"startDate",
+				"startDateText"
+			],
+			[
+				"backg",
+				"backgroundColor"
+			],
+			[
+				"session",
+				"sessionString"
+			],
+			[
+				"Styl",
+				"StylesAndroid"
+			],
+			[
+				"sty",
+				"StylesAndroid"
+			],
+			[
+				"Styles",
+				"StylesAndroid"
+			],
+			[
+				"ses",
+				"sessionIdx"
+			],
+			[
+				"promp",
+				"promptState"
+			],
+			[
+				"cna",
+				"cancelBtnProps"
+			],
+			[
+				"addBtn",
+				"addBtnProps"
+			],
+			[
+				"addB",
+				"addBtnProps"
+			],
+			[
+				"prompt",
+				"promptState"
+			],
+			[
+				"promptstae",
+				"PromptStates"
+			],
+			[
+				"cance",
+				"cancelBtnProps"
+			],
+			[
+				"min",
+				"minimumTrackTintColor"
+			],
+			[
+				"Touch",
+				"TouchableOpacity"
+			],
+			[
+				"place",
+				"placeholderTextColor"
+			],
+			[
+				"Anx",
+				"AnxietyTrackerActions"
+			],
+			[
+				"handleCu",
+				"handleCurrentAnxietyChange"
+			],
+			[
+				"Anxi",
+				"AnxietySlider"
+			],
+			[
+				"slider",
+				"sliderValue"
+			],
+			[
+				"handleIni",
+				"handleInitialPeakAnxietyChange"
+			],
+			[
+				"value",
+				"valueView"
+			],
+			[
+				"addBtnP",
+				"addBtnProps"
+			],
+			[
+				"addb",
+				"addBtnTitle"
+			],
+			[
+				"time",
+				"timeSpanStr"
+			],
+			[
+				"minu",
+				"minutesStr"
+			],
+			[
+				"minute",
+				"minuteStr"
+			],
+			[
+				"Anxiety",
+				"AnxietyTrackerStore"
+			],
+			[
+				"initi",
+				"initialPeak"
+			],
+			[
+				"curr",
+				"currentLevel"
+			],
+			[
+				"initial",
+				"initialPeakLevel"
+			],
+			[
+				"initia",
+				"initialPeakLevel"
+			],
+			[
+				"Anxie",
+				"AnxietyTrackerStore"
+			],
+			[
+				"configur",
+				"configureAnimation"
+			],
+			[
+				"Sty",
+				"StyleSheet"
+			],
+			[
+				"group",
+				"groupStyles"
+			],
+			[
+				"he",
+				"helperText"
+			],
+			[
+				"Sett",
+				"SettingText"
+			],
+			[
+				"cons",
+				"constructor"
+			],
+			[
+				"des",
+				"destructiveButtonView"
+			],
+			[
+				"destr",
+				"destructiveButtonText"
+			],
+			[
+				"T",
+				"TouchableWithoutFeedback"
+			],
+			[
+				"disa",
+				"disabledText"
+			],
+			[
+				"dis",
+				"disabledText"
+			],
+			[
+				"dark",
+				"darkerText"
+			],
+			[
+				"prin",
+				"printableSessions"
+			],
+			[
+				"date",
+				"dateFormat"
+			],
+			[
+				"upd",
+				"updateValue"
+			],
+			[
+				"margin",
+				"marginRight"
+			],
+			[
+				"hand",
+				"handlePeriodChange"
+			],
+			[
+				"Setting",
+				"SettingDropDownPicker"
+			],
+			[
+				"share",
+				"sharePeriodIndex"
+			],
+			[
+				"sett",
+				"SettingSegmentedControl"
+			],
+			[
+				"Set",
+				"SettingItemProps"
+			],
+			[
+				"Setti",
+				"SettingItemProps"
+			],
+			[
+				"hid",
+				"hiddenStyle"
+			],
+			[
+				"An",
+				"AnxietyTrackerActions"
+			],
+			[
+				"clear",
+				"clearAllSessions"
+			],
+			[
+				"sess",
+				"sessionData"
+			],
+			[
+				"Confi",
+				"ConfirmDestructiveOperation"
+			],
+			[
+				"de",
+				"destructiveTextView"
+			],
+			[
+				"paddinG",
+				"paddingHorizontal"
+			],
+			[
+				"dest",
+				"destructiveText"
+			],
+			[
+				"light",
+				"lightgray"
+			],
+			[
+				"destru",
+				"destructiveView"
+			],
+			[
+				"getCh",
+				"getChildArray"
+			],
+			[
+				"Ses",
+				"SessionShareModal"
+			],
+			[
+				"ali",
+				"alignSelf"
+			],
+			[
+				"Draw",
+				"DrawerItem"
+			],
+			[
+				"Statu",
+				"StatusBar"
+			],
+			[
+				"Dra",
+				"DrawerItem"
+			],
+			[
+				"bars",
+				"barsIcon"
+			],
+			[
+				"on",
+				"onSettingsButtonPress"
+			],
+			[
+				"padding",
+				"paddingVertical"
+			],
+			[
+				"ena",
+				"enableSessionComments"
+			],
+			[
+				"reac",
+				"react-native-setting-picker"
+			],
+			[
+				"label",
+				"labelText"
+			],
+			[
+				"flex",
+				"flexDirection"
+			],
+			[
+				"P",
+				"Platform"
+			],
+			[
+				"Th",
+				"TouchableNativeFeedback"
+			],
+			[
+				"fle",
+				"flexDirection"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "test",
+		"selected_items":
+		[
+			[
+				"test",
+				"npm: Run Tests"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git quic",
+				"Git: Quick Commit (current file)"
+			],
+			[
+				"git qui",
+				"Git: Quick Commit (current file)"
+			],
+			[
+				"git quick",
+				"Git: Quick Commit (current file)"
+			],
+			[
+				"git add a",
+				"Git: Add All"
+			],
+			[
+				"git add all",
+				"Git: Add All"
+			],
+			[
+				"git ad",
+				"Git: Add All"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git check",
+				"Git: Checkout Tag"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git add ",
+				"Git: Add All"
+			],
+			[
+				"git checkout",
+				"Git: Checkout Current File"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"git difftoo",
+				"Git: Diff Tool Current File"
+			],
+			[
+				"git pu",
+				"Git: Pull"
+			],
+			[
+				"git reset",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"git",
+				"Git: Diff Current File"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"uninstal",
+				"npm: Remove/Uninstall Package"
+			],
+			[
+				"uninsta",
+				"npm: Remove/Uninstall Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"git com\t",
+				"Git: Commit"
+			],
+			[
+				"Snippet: rnc",
+				"Snippet: Basic template for a react-native class"
+			],
+			[
+				"git diff a",
+				"Git: Diff All Files"
+			],
+			[
+				"git re",
+				"Git: Reset (unstage) All"
+			],
+			[
+				"git dif",
+				"Git: Diff All Files"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git merge",
+				"Git: Merge Branch"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				" git add ",
+				"Git: Add All"
+			],
+			[
+				"git fet",
+				"Git: Fetch"
+			],
+			[
+				"pack rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"npm",
+				"npm: Run Script"
+			],
+			[
+				"npm ",
+				"npm: Run Script"
+			],
+			[
+				"npm un",
+				"npm: Remove/Uninstall Package"
+			],
+			[
+				"npm in",
+				"npm: Install Package"
+			],
+			[
+				"git qu",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"npm ru",
+				"npm: Run Script"
+			],
+			[
+				"git ",
+				"Git: Add All"
+			],
+			[
+				"npm run",
+				"npm: Run Script"
+			],
+			[
+				"git clean",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"SublimeLinter: Enab",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"SublimeLinter: Disa",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"SublimeLinter: Enable",
+				"SublimeLinter: Enable Debug Mode"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"package control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 632.0
+	},
+	"console":
+	{
+		"height": 216.0,
+		"history":
+		[
+			"exec cmd.exe",
+			"cmd.exe",
+			"clear()",
+			"clear",
+			"swi_debug_reload",
+			"Package-Control",
+			"Package Control",
+			"Package",
+			"Package-Control",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/src/vowel-replacement-game"
+	],
+	"file_history":
+	[
+		"/D/src/anxietyworktracker/app/classes/session.js",
+		"/D/src/anxietyworktracker/app/classes/session-filters.js",
+		"/D/src/anxietyworktracker/app/components/sessions/session-item.ios.js",
+		"/D/src/anxietyworktracker/app/components/sessions/session-item.android.js",
+		"/D/src/anxietyworktracker/app/components/sessions/index.android.js",
+		"/D/src/anxietyworktracker/app/components/sessions/index.ios.js",
+		"/D/src/anxietyworktracker/app/stores/anxiety-tracker-store.js",
+		"/D/src/anxietyworktracker/app/classes/extensions/date-extensions.js",
+		"/D/src/anxietyworktracker/__tests__/app/components/extensions/date-extensions.js",
+		"/D/src/anxietyworktracker/__tests__/index.android.js",
+		"/D/src/anxietyworktracker/__tests__/index.ios.js",
+		"/D/src/anxietyworktracker/android/app/build.gradle",
+		"/D/src/anxietyworktracker/android/app/src/main/AndroidManifest.xml",
+		"/C/Users/Jordan/AppData/Roaming/Sublime Text 3/Packages/User/Javascript import user module.sublime-snippet",
+		"/D/src/anxietyworktracker/app/components/settings/index.android.js",
+		"/D/src/anxietyworktracker/app/components/settings/index.ios.js",
+		"/D/src/anxietyworktracker/app/components/drawer/index.ios.js",
+		"/D/src/anxietyworktracker/app/components/settings/clear-all-sessions-button.js",
+		"/D/src/anxietyworktracker/app/components/session-print/index.android.js",
+		"/D/src/anxietyworktracker/app/components/session-print/index.ios.js",
+		"/D/src/anxietyworktracker/app/styles/common.js",
+		"/D/src/anxietyworktracker/app/components/sessions/session-item.js",
+		"/D/src/anxietyworktracker/app/classes/dev-utils.js",
+		"/D/src/anxietyworktracker/app/components/settings/generate-test-sessions-button.js",
+		"/D/src/anxietyworktracker/app/components/drawer/index.android.js",
+		"/D/src/anxietyworktracker/package.json",
+		"/C/Users/Jordan/.gradle/gradle.properties",
+		"/D/src/anxietyworktracker/android/app/src/main/java/com/anxietyworktracker/MainActivity.java",
+		"/D/src/anxietyworktracker/android/app/src/main/java/com/anxietyworktracker/MainApplication.java",
+		"/D/src/anxietyworktracker/android/settings.gradle",
+		"/D/src/anxietyworktracker/app/styles/index.android.js",
+		"/D/src/anxietyworktracker/app/classes/share-helper.js",
+		"/D/src/anxietyworktracker/app/components/sessions/anxiety-entry-form.ios.js",
+		"/D/src/anxietyworktracker/app/components/sessions/anxiety-entry-form.android.js",
+		"/D/src/anxietyworktracker/app/components/sessions/start-stop-button.ios.js",
+		"/D/src/anxietyworktracker/app/components/sessions/anxiety-slider.android.js",
+		"/D/src/anxietyworktracker/app/components/sessions/anxiety-slider.ios.js",
+		"/D/src/anxietyworktracker/app/components/sessions/start-stop-button.android.js",
+		"/D/src/anxietyworktracker/app/components/drawer/session-filter-picker.android.js",
+		"/D/src/anxietyworktracker/app/classes/share-helper.android.js",
+		"/D/src/anxietyworktracker/app/classes/session-printer.android.js",
+		"/D/src/anxietyworktracker/app/classes/session-printer.ios.js",
+		"/D/src/anxietyworktracker/app/react-native-setting-picker/styles/index.android.js",
+		"/D/src/anxietyworktracker/app/react-native-setting-picker/styles/index.ios.js",
+		"/D/src/anxietyworktracker/app/actions/anxiety-tracker-actions.js",
+		"/D/src/anxietyworktracker/app/stores/store.js",
+		"/D/src/anxietyworktracker/app/components/sessions/index.js",
+		"/D/src/anxietyworktracker/app/components/sessions/anxiety-entry-form.js",
+		"/D/src/anxietyworktracker/app/components/sessions/start-stop-button.js",
+		"/D/src/anxietyworktracker/app/components/app.js",
+		"/D/src/anxietyworktracker/app/components/sessions/anxiety-slider.js",
+		"/D/src/anxietyworktracker/app/styles/index.ios.js",
+		"/D/src/anxietyworktracker/app/react-native-setting-picker/styles/index.js",
+		"/D/src/anxietyworktracker/app/classes/anxiety-entry.js",
+		"/D/src/anxietyworktracker/app/constants/anxiety-entry-form-states.js",
+		"/D/src/anxietyworktracker/app/components/component.js",
+		"/D/src/anxietyworktracker/app/react-native-setting-picker/components/setting-dropdown-picker.js",
+		"/D/src/anxietyworktracker/app/components/drawer/session-filter-picker.ios.js",
+		"/D/src/anxietyworktracker/app/react-native-setting-picker/components/setting-item.js",
+		"/D/src/anxietyworktracker/app/react-native-setting-picker/components/setting-text.js",
+		"/D/src/anxietyworktracker/index.ios.js",
+		"/D/src/anxietyworktracker/app/react-native-setting-picker/index.js",
+		"/D/src/anxietyworktracker/app/react-native-setting-picker/components/setting-list-picker.js",
+		"/D/src/anxietyworktracker/app/react-native-setting-picker/apis/confirm-destructive-operation.js",
+		"/D/src/anxietyworktracker/app/react-native-setting-picker/components/setting-group.js",
+		"/C/Users/Jordan/AppData/Roaming/Sublime Text 3/Packages/User/Javascript react native component.sublime-snippet",
+		"/D/src/anxietyworktracker/app/react-native-setting-picker/components/setting-segmented-control.js",
+		"/D/src/anxietyworktracker/app/screens.js",
+		"/D/src/anxietyworktracker/app/react-native-setting-picker/components/setting-item-props.js",
+		"/D/src/anxietyworktracker/app/components/session-print/index.js",
+		"/D/src/anxietyworktracker/app/constants/anxiety-tracker-constants.js",
+		"/D/src/anxietyworktracker/app/react-native-setting-picker/components/setting-toggle.js",
+		"/D/src/anxietyworktracker/app/react-native-setting-picker/components/setting-button.js",
+		"/D/src/anxietyworktracker/app/components/settings-modal/index.android.js",
+		"/D/src/anxietyworktracker/app/components/settings-modal/index.ios.js",
+		"/D/src/anxietyworktracker/index.android.js",
+		"/D/src/anxietyworktracker/app/react-native-setting-picker/setting-item.js",
+		"/D/src/anxietyworktracker/app/react-native-setting-picker/setting-list-picker.js",
+		"/D/src/anxietyworktracker/app/react-native-setting-picker/setting-toggle.js",
+		"/D/src/anxietyworktracker/app/react-native-setting-picker/settings-group.js",
+		"/D/src/anxietyworktracker/app/components/session-share-modal/index.js",
+		"/D/src/anxietyworktracker/app/components/app-header/session-filter-picker.js",
+		"/D/src/anxietyworktracker/app/components/app-header/index.js",
+		"/D/src/anxietyworktracker/node_modules/react-native/React.podspec",
+		"/D/src/anxietyworktracker/node_modules/react-native/package.json",
+		"/D/src/anxietyworktracker/node_modules/react/package.json",
+		"/D/src/anxietyworktracker/node_modules/react/index.js",
+		"/D/src/anxietyworktracker/node_modules/react/cjs/react.development.js",
+		"/D/src/anxietyworktracker/app/components/status-bar-margin.ios.js",
+		"/D/src/anxietyworktracker/app/components/status-bar-margin.android.js",
+		"/D/src/anxietyworktracker/app/components/sessions/prompt-popup.js",
+		"/D/src/anxietyworktracker/app/components/app-header/app-header-buttons.ios.js",
+		"/D/src/anxietyworktracker/app/components/app-header/app-header-buttons.android.js",
+		"/C/Users/Jordan/Downloads/vrdb-current/2015-2016_VotingHistoryExtract.txt",
+		"/D/src/anxietyworktracker/ios/AnxietyWorkTracker/Base.lproj/LaunchScreen.xib",
+		"/D/src/anxietyworktracker/app/screens/index.js",
+		"/D/src/anxietyworktracker/app/screens/main.js",
+		"/D/src/anxietyworktracker/app/index.js",
+		"/D/src/anxietyworktracker/ios-settings/setting-text.js",
+		"/D/src/anxietyworktracker/ios-settings/index.js",
+		"/D/src/anxietyworktracker/ios-settings/settings-group.js",
+		"/D/src/anxietyworktracker/ios-settings/styles.js",
+		"/D/src/anxietyworktracker/node_modules/react-native/Libraries/react-native/react-native.js",
+		"/D/src/anxietyworktracker/node_modules/react-native/Libraries/Text/Text.js",
+		"/D/src/anxietyworktracker/app/components/settings-modal/generate-test-sessions-button.js",
+		"/D/src/anxietyworktracker/app/constants/session-filter-constants.js",
+		"/D/src/anxietyworktracker/app/components/settings-modal/clear-all-sessions-button.js",
+		"/D/src/anxietyworktracker/app/classes/sessions-data-sources.js",
+		"/D/src/anxietyworktracker/node_modules/react-native/Libraries/Components/Picker/PickerIOS.ios.js",
+		"/D/src/anxietyworktracker/app/components/settings-modal/interval-selection.js",
+		"/D/src/anxietyworktracker/app/settings-ios/setting-item.js",
+		"/D/src/anxietyworktracker/app/settings-ios/setting-group.js",
+		"/D/src/anxietyworktracker/app/settings-ios/index.js",
+		"/D/src/anxietyworktracker/app/settings-ios/setting-radio.js",
+		"/D/src/anxietyworktracker/app/settings-ios/settings-header.js",
+		"/D/src/anxietyworktracker/node_modules/react-native/Libraries/Components/ActivityIndicator/ActivityIndicator.js",
+		"/D/src/anxietyworktracker/node_modules/react-native/Libraries/Components/Picker/Picker.js",
+		"/D/src/anxietyworktracker/node_modules/react-native/Libraries/StyleSheet/StyleSheet.js",
+		"/D/src/react-native-settings-ios-backup/components/settings-header.js",
+		"/D/src/react-native-settings-ios-backup/components/setting-group.js",
+		"/D/src/anxietyworktracker/app/ios-settings/setting-group.js",
+		"/D/src/anxietyworktracker/app/ios-settings/setting-switch.js",
+		"/D/src/anxietyworktracker/app/ios-settings/setting-radio.js",
+		"/D/src/anxietyworktracker/app/ios-settings/setting-header.js",
+		"/D/src/anxietyworktracker/app/ios-settings/setting-picker.js",
+		"/D/src/anxietyworktracker/app/ios-settings/index.js",
+		"/D/src/anxietyworktracker/node_modules/connect/lib/connect.js",
+		"/D/src/anxietyworktracker/node_modules/react-native-setting-picker-ios/index.js"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"D:\\src\\anxietyworktracker\\app\\",
+			"D:\\src\\anxietyworktracker\\node_module\\*\\AndroidManifest.xml",
+			"D:\\src\\anxietyworktracker\\android",
+			"D:\\src\\anxietyworktracker\\app\\",
+			"D:\\src\\anxietyworktracker\\app\\react-native-setting-picker\\",
+			"D:\\src\\anxietyworktracker\\app\\",
+			"D:\\src\\anxietyworktracker\\app\\components",
+			"D:\\src\\anxietyworktracker\\android",
+			"D:\\src\\anxietyworktracker\\app",
+			"D:\\src\\anxietyworktracker\\android",
+			"D:\\src\\anxietyworktracker\\android\\app\\src",
+			"D:\\src\\anxietyworktracker\\android\\app",
+			"D:\\src\\anxietyworktracker\\android",
+			"D:\\src\\anxietyworktracker\\app",
+			"D:\\src\\anxietyworktracker\\android",
+			"D:\\src\\anxietyworktracker\\app",
+			"D:\\src\\anxietyworktracker\\",
+			"D:\\src\\anxietyworktracker\\ios",
+			"D:\\src\\anxietyworktracker\\app\\",
+			"D:\\src\\anxietyworktracker\\src\\",
+			"D:\\src\\anxietyworktracker\\src",
+			"D:\\src\\anxietyworktracker\\",
+			"D:\\src\\anxietyworktracker\\app",
+			"D:\\src\\anxietyworktracker\\src",
+			"D:\\src\\anxietyworktracker",
+			"D:\\src\\dmtables\\project\\src\\*",
+			"D:\\src\\dmtables\\project\\src",
+			"D:\\src\\dmtables\\project\\node_modules\\jest-cli\\src",
+			"D:\\src\\dmtables\\project\\node_modules\\jest-cli",
+			"D:\\src\\dmtables\\project\\node_modules\\jest_cli",
+			"D:\\src\\dmtables\\project\\node_modules\\jest",
+			"D:\\src\\dmtables\\project\\src\\node_modules\\jest",
+			"D:\\src\\dmtables\\project\\src",
+			"D:\\src\\dmtables\\project\\node_modules\\react-bootstrap",
+			"D:\\src\\dmtables\\project\\node_modules\\react-router-bootstrap",
+			"D:\\src\\dmtables\\project\\node_modules\\react-bootstrap",
+			"D:\\src\\dmtables\\project\\",
+			"D:\\src\\dmtables\\project\\node_modules",
+			"D:\\src\\dmtables\\project\\",
+			"D:\\src\\dmtables\\project\\src",
+			"D:\\src\\dmtables\\project\\node_modules\\react-router",
+			"D:\\src\\dmtables\\project\\node_modules",
+			"<open files>",
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"filteredOutView",
+			"sectionIdentitiesLen",
+			"clone",
+			"nextStartOfWeek",
+			"getMidnightTime",
+			"startOfThisWeekDate",
+			"handleAppUpgrade",
+			"state",
+			"getLastSessionEntryDate",
+			"getLastEntryDate(session)",
+			"startOfThisWeekDate",
+			"startOfWeek",
+			"ALERT_SOUND",
+			"curSessionMinute",
+			"curMinutes",
+			"permission",
+			"READ_PHONE_STATE",
+			"props",
+			"isCustomDate",
+			"fontCol",
+			"time",
+			"NOTIFICATION_SOUND_FILENAME",
+			"StyleAndroid",
+			"75",
+			"Platform",
+			"Styles",
+			"Platform",
+			"Alert",
+			"Platform",
+			"handleAppStateChange",
+			"queueNotifications",
+			"platform",
+			"Style",
+			"rowHasChanged",
+			"LayoutAnimation",
+			"configureAnimation",
+			"TouchableHighlight",
+			"loadingOverlay",
+			"handleCurrentAnxiety",
+			"handleCurrentAnxiet",
+			"sliderValue",
+			"cancelStr",
+			"addBtnStr",
+			"'stopping'",
+			"'interval'",
+			"'starting'",
+			"'stopped'",
+			"'running'",
+			"'initial'",
+			"'starting'",
+			"'stopping'",
+			"'stopped'",
+			"'running'",
+			"'interval'",
+			"17",
+			"itemIcon",
+			"disabled",
+			"lpValue",
+			"getSessionDateOfStartOfWeek",
+			"startOf",
+			"selectedValue",
+			"app-header",
+			"React.PropTypes",
+			"proptypes",
+			"__DEV__ &&",
+			"Platform",
+			"reactcomponenttreeHook",
+			"componenttreeHook",
+			"mainreactpackage",
+			"child",
+			"children",
+			"propTypes",
+			"_listView",
+			"_scrolledToEnd",
+			"clear",
+			"pendingEntry",
+			"underlayColor",
+			"TouchableHighlight",
+			"DEV_INTERVAL",
+			"pick",
+			"_settings",
+			"INTERVAL_MULTIPLIER",
+			"_settings",
+			"minuteInterval",
+			"Header",
+			"line",
+			"hairline",
+			"_last",
+			"FS",
+			"appHeaderRow",
+			"TouchanbleNativeFeedback",
+			"Styles",
+			"getMinutesString",
+			"getTimeSpanString",
+			"getSessionString",
+			"getSessionDateOfStartOfWeek",
+			"setApplicationIconBadgeNumber",
+			"iso",
+			"cancel",
+			"2.14.1",
+			"2.4.1",
+			"orientation",
+			"sessionanxietyItems",
+			"getMidnight",
+			"getSessionString",
+			"copyDownloadableDepsToLibs",
+			"generateDebugAndroidTestAssets",
+			"copyDownloadableDepsToLibs",
+			"padRigh",
+			"padLef",
+			"pad",
+			"iosHeaderShareBtnText",
+			"iosHeaderShareBtnIcon",
+			"iosHeaderShareView",
+			"UIKit",
+			"TouchableNative",
+			"settings",
+			"touchableHightlight",
+			"filter",
+			".minuteInterval",
+			"._minuteInterval",
+			"nextPromp",
+			"skip",
+			"minuteIn",
+			"minuteInterval",
+			"_alertSound",
+			"minuteInterval",
+			"console"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"sectionIdsLen",
+			"nextWeekStart",
+			"upgradeApp",
+			"session.lastEntryDate",
+			"_alertSound",
+			"currentSessionMinute",
+			"useCustomDate",
+			"StylesAndroid",
+			"currentValue",
+			"cancelBtnTitle",
+			"addBtnTitle",
+			"PromptStates.STOPPING",
+			"PromptStates.INTERVAL",
+			"PromptStates.STARTING",
+			"PromptStates.STOPPED",
+			"PromptStates.RUNNING",
+			"PromptStates.INITIAL",
+			"PromptStates.STARTING",
+			"PromptStates.STOPPING",
+			"PromptStates.STOPPED",
+			"PromptStates.RUNNING",
+			"PromptStates.INTERVAL",
+			"icon",
+			"PropTypes",
+			"_shouldScroll",
+			"lastEntry",
+			"TouchableNativeFeedback",
+			"headerShareBtnText",
+			"headerShareBtnIcon",
+			"headerShareView",
+			"TouchableNativeFeedback",
+			"touchableHighlight",
+			".minuteInterval",
+			"ALERT_SOUND",
+			"PromptPopup",
+			"saveSessionsToStorage",
+			"loadSessionsFromStorage",
+			"initialAnxeity",
+			"valuesPlaced",
+			"self.",
+			"",
+			"_ms",
+			": ",
+			"{ name: '$1', desc: '$2' },",
+			"",
+			"let",
+			"iterationsCalculated",
+			"nextState",
+			"_currentWorker",
+			"state",
+			"_permsCalculatedSinceBreak",
+			"_permutationsCalculated",
+			"diceList",
+			"_diceList",
+			"_shouldContinue",
+			"*",
+			"hiddenSelectedTableId",
+			"(_inWebWorker",
+			"(!_inWebWorker",
+			"_rollCount",
+			"importTables",
+			"importValues",
+			"value",
+			"onTypeChange",
+			"Glyphicon",
+			"handleTableAction",
+			"handleChange",
+			"var ",
+			"toJSON",
+			"\\\\\\n",
+			"self",
+			"DiceEditorStore",
+			"DiceEditorActions",
+			"diceEditorKey",
+			"",
+			"\"\\1\":",
+			"\"",
+			"valueJson",
+			"this",
+			"outcomeJson",
+			"value",
+			"$1$2 ",
+			" ",
+			"at",
+			"At",
+			"the",
+			"ammunition",
+			"$1$2 ",
+			" ",
+			"$3 $4",
+			" ",
+			"$1$2    description: \"\"\\n$2$3",
+			"\\n",
+			"\\",
+			"'",
+			"0.$1",
+			"",
+			"new DMult",
+			"DMult(",
+			"let",
+			"links.$1",
+			"$1$2",
+			"VENDOR_PATH",
+			"",
+			"endT",
+			"'",
+			"]",
+			"[",
+			"    "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.textarea":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "vowel-replacement-game.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"webpack",
+				"webpack.config.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\src\\vowel-replacement-game\\vowel-replacement-game.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 274.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
