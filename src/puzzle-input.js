@@ -14,8 +14,9 @@ export default class PuzzleInput extends React.Component {
     }
 
     handleValueChange(e) {
+        let val = e.target.value.toLowerCase().replace(/ /g, '*');
         this.setState({
-            inputValue: e.target.value.toLowerCase(),
+            inputValue: val,
         });
     }
 
